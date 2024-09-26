@@ -1,0 +1,76 @@
+.delete {
+    background-color: tomato;
+    border-color: black;
+  }
+  
+  .accordion-answer {
+    width: 600px;
+    background-color: grey;
+    padding: 20px;
+    margin: 5px;
+    font-weight: bolder;
+    font-size: large;
+  }
+  
+  .accordion {
+    margin: 10px;
+    padding: 5px;
+  }
+  
+  .det {
+    background-color: lightgreen;
+    font-size: medium;
+    border-color: black;
+  }
+  
+  .sum {
+    background-color: yellow;
+    font-size: medium;
+    border-color: black;
+  }
+  
+  body {
+    background-color: rgb(181, 238, 225);
+  }
+  .view-details-list {
+    display: flex;
+    justify-content: space-between;
+  }
+  .view-details-list-value {
+    width: 50%;
+    text-align: left;
+    padding-left: 50px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .view-details-list-value:hover {
+    overflow: visible;
+  }
+  
+  .details-table {
+    border: 1px solid;
+    border-collapse: collapse;
+  }
+  
+  .details-table-rows {
+    border: 1px solid;
+    border-collapse: collapse;
+  }
+  
+  .details-table-rows td {
+    border: 1px solid;
+    border-collapse: collapse;
+  }
+  
+  .details-table-rows th {
+    border: 1px solid;
+    border-collapse: collapse;
+  }
+  
+  .none{
+    border: none;
+    outline: none;
+    background-color: rgb(181, 238, 225);
+    font-size: medium;
+  }

@@ -1,0 +1,53 @@
+.input {
+    height: 40px;
+    width: 400px;
+    text-align: center;
+    font-size: medium;
+    font-style: italic;
+  }
+  
+  .addbutton {
+    background-color: rgb(33, 165, 209);
+    font-size: large;
+    height: 40px;
+    width: 45px;
+  }
+  
+  body {
+    background-color: rgb(33, 165, 209);
+  }
+  
+  .initialbackground {
+    background-color: white;
+    height: min-content;
+    border-width: 20px;
+    margin: 35px;
+  }
+  
+  .checked {
+    font-size: medium;
+    text-align: left;
+  }
+  
+  .clearbutton {
+    position: absolute;
+    right: 60px;
+  }
+  .tbl {
+    background-color: white;
+    border-color: black;
+    border-width: 30px;
+    font-size: large;
+  }
+  
+  .removebutton {
+    background-color: rgb(33, 165, 209);
+    font-size: medium;
+    margin-left: 300px;
+    border-radius: 10px;
+  }
+  
+  .editbutton{
+          position: absolute;
+          right: 90px;
+  }

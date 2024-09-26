@@ -1,0 +1,16 @@
+.resetbutton{
+    font-size: large;
+    margin-left: 130px
+}
+
+.inputbutton{
+    display: grid;
+    grid-template-columns: repeat(3,100px);
+    gap: 5px;
+    height: 350px;
+    margin-left: 540px ;
+}
+
+.game-button{
+    font-size: 40px;
+}

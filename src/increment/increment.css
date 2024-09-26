@@ -1,0 +1,15 @@
+.increment {
+    background-color: rgb(243, 221, 27);
+    color: #0e0f0e;
+    font-size: xx-large;
+    border-radius: 20px;
+}
+
+.decrement {
+    background-color:rgb(236, 236, 252);
+  color: #ac2b2b;
+  font-size: xx-large;
+  border-radius: 20px;
+ 
+
+}
